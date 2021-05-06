@@ -1,0 +1,190 @@
+.img-header {
+    background: url(../img/images.jpg);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 90%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.lists {
+    display: flex;
+    margin-left: 400px;
+}
+
+#b {
+    list-style: none;
+}
+
+#a {
+    padding: 0 5px;
+    text-decoration: none;
+    list-style: none;
+    color: #ffff;
+    font-family: 'Squada One', cursive;
+}
+
+.welcome {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.title {
+    color: #ffff;
+    font-family: 'Squada One', cursive;
+    font-size: 80px;
+    margin: 280px 100px;
+}
+
+.line {
+    position: absolute;
+    background: #ffff;
+    height: 3px;
+    width: 1050px;
+    margin: 450px 100px;
+}
+
+.img-header2 {
+    position: absolute;
+    background: url(..//img/dark-canvas.gif);
+    top: 563px;
+    left: 0;
+    width: 100%;
+    height: 130%;
+}
+
+.yo {
+    margin: 20px 80px;
+    height: 580px;
+    box-shadow: 10px 10px 10px 10px;
+    border-radius: 20px;
+}
+
+.bio {
+    padding: 80px 50px;
+}
+
+#j {
+    color: #ffff;
+    font-family: 'Squada One', cursive;
+    font-size: 100px;
+    margin: 0;
+}
+
+#p {
+    color: #ffff;
+    font-family: 'Squada One', cursive;
+    font-size: 30px;
+    padding: 0 40px;
+}
+
+.sec {
+    position: absolute;
+    background: url(..//img/armored.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    top: 1376px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.s {
+    color: #ffff;
+    font-size: 70px;
+    font-family: 'Squada One', cursive;
+    margin: 40px 200px;
+}
+
+.l {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.boton {
+    height: 50px;
+    width: 200px;
+    font-size: 30px;
+    font-family: 'Squada One', cursive;
+    border-radius: 50px;
+    border: none;
+    box-shadow: 3px 3px 3px 3px;
+    margin: 0 170px;
+}
+
+.dark {
+    display: flex;
+    margin: 40px 40px
+}
+
+#container1 {
+    position: relative;
+    height: 400px;
+    width: 400px;
+    background: url(../img/mapa);
+    background-position: center;
+    margin: 20px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px 10px;
+}
+
+#con {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+}
+
+#container2 {
+    position: relative;
+    height: 400px;
+    width: 480px;
+    background: url(../img/hoja);
+    background-position: center;
+    margin: 20px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px 10px;
+}
+
+#container3 {
+    position: relative;
+    height: 400px;
+    width: 480px;
+    background: url(../img/datos.jpg);
+    background-position: center;
+    margin: 20px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px 10px;
+}
+
+#container4 {
+    position: relative;
+    height: 400px;
+    width: 480px;
+    background: url(../img/img.png);
+    background-position: center;
+    margin: 20px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px 10px;
+}
+
+#v {
+    color: #ffff;
+    font-family: 'Squada One', cursive;
+    font-size: 40px;
+    padding: 0 40px;
+}
+
+#u {
+    color: #ffff;
+    font-family: 'Squada One', cursive;
+    font-size: 20px;
+    margin: 0 40px;
+}
