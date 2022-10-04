@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+    background: #d4e2f5;
+}
+.buttoms {
+    text-align: center;
+}
+
+.boton1{
+    border: none;
+    outline: none;
+    height: 40px;
+    color: #ffffff;
+    background: #103cf4;
+    font-size: 18px;
+    border-radius: 20px;
+    padding: 10px 365px;
+    margin: 10px 10px;
+    text-align: center;
+}
+
+.boton1:hover {
+    color: #ffffff;
+    cursor: pointer;
+    background: linear-gradient(#0d6ce7, rgb(42, 103, 172));
+  }
+
+.boton2{
+    border: none;
+    outline: none;
+    height: 40px;
+    color: #ffffff;
+    background: #20347c;
+    font-size: 18px;
+    border-radius: 20px;
+    padding: 10px 375px;
+    margin: 10px 10px;
+    text-align: center;
+}
+
+.boton2:hover {
+    color: #ffffff;
+    cursor: pointer;
+    background: linear-gradient(#0d6ce7, rgb(42, 103, 172));
+}
+
+.buscador{
+    font-family: 'Viga', sans-serif;
+    margin: 40px;
+}
+
+.avatar {
+    float: left;
+    width: 200px;
+    height: 200px;
+    position:relative;
+    margin-left: 250px;
+    margin-right: 20px;
+}
+
+.text-center-title {
+    font-family: 'Archivo', sans-serif;
+    font-size: 40px;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    background-color: #20347c;
+}
+
+.form-label {
+    font-family: 'Viga', sans-serif;
+    font-size: 18px;
+    color: #20347c;
+}
+
+.option {
+    color: #000000;
+}
+
+.form-control {
+    border: none;
+    border-bottom: 1px solid #20347c;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #1a1a1a;
+    font-size: 16px;
+    margin: 2px;
+}
+
+.results {
+    font-family: 'Viga', sans-serif;
+    font-size: 30px;
+    color: #1a1a1a;
+    text-align: center;
+    padding: 0.2%;
+    margin: 10px;
+}
+
+#icon {
+    width: 30px;
+    height: 30px;
+}
+
+.TablaConsulta{
+    background: #20347c;
+    text-align: center;
+    margin: 25px auto;
+    padding: 16px;
+    border-radius: 20px;
+}
+
+.text-center {
+    font-family: 'Viga', sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.text-center-results{
+    font-family: 'Archivo', sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 20px;
+    text-align: center;
+}
+
